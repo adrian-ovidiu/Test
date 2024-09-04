@@ -1,12 +1,12 @@
 {
-   "currentVersion":{
-      "major":1,
-      "minor":0,
-      "build":0
+   "CurrentVersion":{
+      "Major":1,
+      "Minor":0,
+      "Build":0
    },
-   "minimumMandatoryVersion":{
-      "major":1,
-      "minor":0,
-      "build":0
+   "MinimumMandatoryVersion":{
+      "Major":1,
+      "Minor":0,
+      "Build":0
    }
 }
